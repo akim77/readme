@@ -1,4 +1,4 @@
-# Allen Kim’s ReadMe
+# Allen Kim’s AboutMe
 
 Hi, I’m Allen. I’m currently a Director of Product at Shippo. This page is intended to help others understand what it might be like to work with me, especially in a remote-first work environment with folks who haven’t worked with me before.
 
