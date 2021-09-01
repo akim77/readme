@@ -37,15 +37,15 @@ In the spirit of transparency, I’ll share a summary of 360 feedback from June 
 
 ## Things I’m working on
 Being new to Shippo, I’ll be working on the 4 areas below during my first 90 days: people, process, product, and strategy. 
-* People: I’m planning on investing a lot of my time getting to know my team, various stakeholders in Shippo, and our customers. 
-* Process: I’d like to get a pulse for team culture/health around how the team conduct product discovery and delivery. Are we practicing good hygiene to understand customer problems and come up with solutions?
-* Product: In-depth review of our current product, how our customers use our product, and where things fall short.
-* Strategy: Develop a compelling merchant experience product strategy that helps us focus on where to execute and why.
+* **People**: I’m planning on investing a lot of my time getting to know my team, various stakeholders in Shippo, and our customers. 
+* **Process**: I’d like to get a pulse for team culture/health around how the team conduct product discovery and delivery. Are we practicing good hygiene to understand customer problems and come up with solutions?
+* **Product**: In-depth review of our current product, how our customers use our product, and where things fall short.
+* **Strategy**: Develop a compelling merchant experience product strategy that helps us focus on where to execute and why.
 
 ## How you can help me
-* On boarding: Help me understand the industry, customers, user journey, jobs to be done, competitors, 5-10x growth opportunities, your product area, and more. I’d like to soak up as much knowledge and information as possible.
-* Do thoughtful, good work. Tell me if there’s something preventing you from doing this, and we’ll work together to address it.
-* Bias to action. Beauty of product management is that there’s no one single solution. Instead of waiting, move problems forward with creative ways.
-* Communicate. If there’s a problem, please bring it up. I generally interpret silence as “things are fine”. Don’t save urgent matters for 1:1. 
-* I like explicit and specific asks. I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of this week”. 
-* Bring your whole self to work.
+* **On boarding**: Help me understand the industry, customers, user journey, jobs to be done, competitors, 5-10x growth opportunities, your product area, and more. I’d like to soak up as much knowledge and information as possible.
+* **Do thoughtful, good work**. Tell me if there’s something preventing you from doing this, and we’ll work together to address it.
+* **Bias to action**. Beauty of product management is that there’s no one single solution. Instead of waiting, move problems forward with creative ways.
+* **Communicate**. If there’s a problem, please bring it up. I generally interpret silence as “things are fine”. Don’t save urgent matters for 1:1. 
+* **I like explicit and specific asks**. I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of this week”. 
+* **Bring your whole self to work**.
