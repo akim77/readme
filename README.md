@@ -6,9 +6,7 @@ It’s also a well-intended effort at building some trust by being intentionally
 
 
 ## About Me
-I was born in Ann Arbor, MI and grew up there until I was 7 years old. When my dad finished his Ph.D at U of M in Philosophy, our whole family moved to S. Korea.
-I spent most of my childhood in S. Korea attending public schools. At the end of my 8th grade summer, my parents had a revelation that we (me and my younger sister) should have our education in the U.S. and decided to move back to Ann Arbor MI! High school was when I learned how to read, write, speak, and comprehend English and took English as a Second Language (ESL) classes.
-I’ve been living in the U.S. ever since! Here are a few fun facts about me.
+I was born in Ann Arbor, MI and grew up there until I was 7 years old. I spent most of my childhood in S. Korea attending public schools. At the end of my 8th grade summer, my parents had a revelation that we (me and my younger sister) should have our education in the U.S. and decided to move back to the States and have been living in the U.S. ever since! Here are a few fun facts about me.
 
 * I live in Irvine, CA with my lovely wife and 1 year old son Elliott (born in ‘20).
 * I love to cycle 2 to 3 times a week for ~30 miles around the area. It’s how I do my deep thinking and get unstuck on hard problems.
