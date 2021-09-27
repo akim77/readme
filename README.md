@@ -32,7 +32,8 @@ If you’re on my team, I’m here to support you, provide focus and clarity on 
 
 ## 360 Feedback
 In the spirit of transparency, I’ll share a summary of 360 feedback from June 2020 in a previous role:
-Taking the time to listen, process, and solicit feedback from others before rushing to execution. There were times where the business pressure to deliver a product came at an expense of making sure the core team felt heard and incorporate long term impact. Having a healthy balance is important to getting things done for the short term, but also achieving an optimal long term outcome.
+
+My peers suggested that I make more time to listen, process, and solicit feedback from others before rushing to execution. There were times where the business pressure to deliver a product came at an expense of making sure the core team felt heard and incorporated long term product impact. Starting new at Shippo, I plan to make an extra effort to solicit team's input and simmer on the feedback before making decisions.
 
 ## Things I’m working on
 Being new to Shippo, I’ll be working on the 4 areas below during my first 90 days: people, process, product, and strategy. 
